@@ -35,7 +35,7 @@
             bindings = <
 &trans    &trans  &trans  &trans     &trans    &trans                    &trans  &trans    &trans     &trans  &trans  &trans
 &trans    &trans  &trans  &trans     &trans    &trans                    &trans  &trans    &trans     &trans  &trans  &trans
-&kp LGUI  &trans  &trans  &trans     &trans    &trans                    &trans  &trans    &trans     &trans  &trans  &kp RGUI
+&kp LGUI  &trans  &trans  &trans     &trans    &trans                    &trans  &trans    &trans     &trans  &trans  &trans
 &trans    &trans  &trans  &trans     &trans    &trans  &trans    &trans  &trans  &trans    &trans     &trans  &trans  &trans
                           &kp LCTRL  &kp LALT  &trans  &trans    &trans  &trans  &kp RALT  &kp RCTRL
             >;
